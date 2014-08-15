@@ -85,19 +85,19 @@ Geçersiz bir başlığa gitmeye çalıştığınız zaman hata mesajı alırsı
 
 ## Başlık Dosyaları
 
-* **debug.h :** Hata ayıklama ve bellek işlemleri için makrolar.
-* **dep.h :** Uygulamanın genelinden erişilmek istenen başlık dosyaları.
-* **fetcher.h :** İnternetten sayfanın yüklenmesi ve belleğe yerleştirilmesi işlemleri için gerekli yapılar ve fonksiyon tanımları.
-* **gui.h :** Arayüz için gerekli sabitler ve fonksiyon tanımları.
-* **parser.h :** Verinin ayrıştırılması için gerekli sabitler ve fonksiyon tanımları.
-* **safran.h :** Uygulama içi sabitler.
+* **src/debug.h :** Hata ayıklama ve bellek işlemleri için makrolar.
+* **src/dep.h :** Uygulamanın genelinden erişilmek istenen başlık dosyaları.
+* **src/fetcher.h :** İnternetten sayfanın yüklenmesi ve belleğe yerleştirilmesi işlemleri için gerekli yapılar ve fonksiyon tanımları.
+* **src/gui.h :** Arayüz için gerekli sabitler ve fonksiyon tanımları.
+* **src/parser.h :** Verinin ayrıştırılması için gerekli sabitler ve fonksiyon tanımları.
+* **src/safran.h :** Uygulama içi sabitler.
 
 ## Kaynak Kodlar
 
-* **fetcher.c :** İnternet sayfalarının belleğe yüklenmesi için gerekli fonksiyonlar.
-* **gui.c :** Arayüz fonksiyonları.
-* **parser.c :** XML ayrıştırma fonksiyonları.
-* **safran.c :** Uygulamanın başlayacağı yer.
+* **src/fetcher.c :** İnternet sayfalarının belleğe yüklenmesi için gerekli fonksiyonlar.
+* **src/gui.c :** Arayüz fonksiyonları.
+* **src/parser.c :** XML ayrıştırma fonksiyonları.
+* **src/safran.c :** Uygulamanın başlayacağı yer.
 
 ## Safran Nedir?
 
