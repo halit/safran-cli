@@ -49,19 +49,19 @@ make
 
 Eğer uygulama başarı ile derlendi ise `./safran` yazıp çalıştırabilirsiniz. Açıldığında aşağıdaki gibi bir ekran sizi karşılayacaktır. Bu menüde hareket için başlığın yanında yer alan numarasını yazıp enter tuşuna basmak yeterlidir.
 
-![Safran.io](safran1.png)
+![Safran.io](res/safran1.png)
 
 Geçerli bir numara girilmiş ise başlık ile ilgili detaylı bilgiler ayrı bir ekran ile açılacaktır. Geri dönmek için enter tuşuna basmak yeterlidir.
 
-![Safran.io](safran2.png)
+![Safran.io](res/safran2.png)
 
 Başlıklar okundukça rengi değişmektedir.
 
-![Safran.io](safran3.png)
+![Safran.io](res/safran3.png)
 
 Geçersiz bir başlığa gitmeye çalıştığınız zaman hata mesajı alırsınız.
 
-![Safran.io](safran4.png)
+![Safran.io](res/safran4.png)
 
 ## Notlar
 
