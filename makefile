@@ -6,7 +6,7 @@ HDR_EXT = .h
 
 SRC_DIR = src
 
-COMPILER = ${CC}
+COMPILER = gcc
 COMPILER_FLAGS = ${CFLAGS} -lcurl -lncurses -Wall -std=c99
 
 SRC = $(shell ls ${SRC_DIR}/*${SRC_EXT})
