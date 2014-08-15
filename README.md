@@ -1,6 +1,6 @@
 # Safran C CLI
 
-[Safran.io](http://safran.io) için C ile yazılmış CLI uygulaması. Diğer diller ile yazılmış versionlarına [buradan](https://github.com/f/awesome-safran) ulaşabilirsiniz.
+[Safran.io](http://safran.io) için C ile yazılmış CLI uygulaması. Diğer diller ile yazılmış versiyonlarına [buradan](https://github.com/f/awesome-safran) ulaşabilirsiniz.
 
 ## Kurulum
 
