@@ -83,6 +83,22 @@ Geçersiz bir başlığa gitmeye çalıştığınız zaman hata mesajı alırsı
 * Renk uyumu ve GUI yeniden tasarlanabilir.
 * Komut satırı parametreli ile de çalışabilir olmalı.
 
+## Başlık Dosyaları
+
+* **debug.h :** Hata ayıklama ve bellek işlemleri için makrolar.
+* **dep.h :** Uygulamanın genelinden erişilmek istenen başlık dosyaları.
+* **fetcher.h :** İnternetten sayfanın yüklenmesi ve belleğe yerleştirilmesi işlemleri için gerekli yapılar ve fonksiyon tanımları.
+* **gui.h :** Arayüz için gerekli sabitler ve fonksiyon tanımları.
+* **parser.h :** Verinin ayrıştırılması için gerekli sabitler ve fonksiyon tanımları.
+* **safran.h :** Uygulama içi sabitler.
+
+## Kaynak Kodlar
+
+* **fetcher.c :** İnternet sayfalarının belleğe yüklenmesi için gerekli fonksiyonlar.
+* **gui.c :** Arayüz fonksiyonları.
+* **parser.c :** XML ayrıştırma fonksiyonları.
+* **safran.c :** Uygulamanın başlayacağı yer.
+
 ## Safran Nedir?
 
 [http://www.safran.io/hakkinda](http://www.safran.io/hakkinda) sayfasından:
