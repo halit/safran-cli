@@ -9,13 +9,13 @@ Uygulamanın çalışması için `curl` ve `ncurses` kütüphanelerinin kurulmu�
 ### Ubuntu
 
 ```bash
-(sudo) apt-get install libcurl4-gnutls-dev ncurses-base ncurses-bin
+(sudo) apt-get install libcurl4-gnutls-dev libncurses5-dev
 ```
 
 veya
 
 ```bash
-(sudo) apt-get install libcurl4-openssl-dev ncurses-base ncurses-bin
+(sudo) apt-get install libcurl4-openssl-dev libncurses5-dev
 ```
 
 ### Arch Linux
