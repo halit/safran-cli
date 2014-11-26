@@ -238,12 +238,12 @@ void display_item_list(item_list* item_list_p){
 		current->readed = 1;
 	}
 
-    /* Clear window */
+	/* Clear window */
 	clear();
-
-    /* Refresh window */
+	
+	/* Refresh window */
 	refresh();
-
-    /* Close the window */
+	
+	/* Close the window */
 	endwin();
 }
