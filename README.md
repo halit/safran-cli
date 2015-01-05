@@ -108,3 +108,5 @@ Geçersiz bir başlığa gitmeye çalıştığınız zaman hata mesajı alırsı
 ## Lisans
 
 [MIT License](http://halit.mit-license.org/)
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/halitalptekin/safran-cli/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
